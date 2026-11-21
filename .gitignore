@@ -1,0 +1,9 @@
+node_modules
+dist
+test_logs
+.env
+.env.*
+*.local
+*.zip
+*.rar
+*.7z
